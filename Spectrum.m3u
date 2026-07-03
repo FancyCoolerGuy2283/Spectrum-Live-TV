@@ -235,3 +235,11 @@ http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631888
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631889
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/416F1kV.png",  Showtime Next West
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631889
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png", Showtime Woman East
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3971.ts
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png", Showtime Woman West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3971.ts
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/byJNJdm.png", Showtime Extreme East
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3967.ts
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/byJNJdm.png", Showtime Extreme West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631884.ts
