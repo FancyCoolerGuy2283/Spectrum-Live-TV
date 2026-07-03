@@ -113,6 +113,8 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/3833
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/PggQk7F.png",  FYI
 http://206.212.244.63/78/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",  Food Network
+https://cdn.telecloud.tv/CH3235/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/BGAGeIf.png",  Freeform East
 http://206.212.244.63/69/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/BGAGeIf.png",  Freeform West
@@ -121,3 +123,21 @@ http://206.212.244.63/70/index.m3u8
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png",  Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/960px-Galavision_Logo_2013.svg.png",  Galavision
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/4464.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/960px-Golf_Channel_logo_2025.svg.png",  Golf Channel
+http://103.205.133.70/golf/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",  HBO East
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png", HBO West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2490.ts
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png", HBO Comedy East
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png", HBO Comedy West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631876.ts
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/960px-HBO_Signature_%282014%29.svg.png",  HBO Drama
+https://cdn.telecloud.tv/CH3265/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO Hits
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png", HBO Movies
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
