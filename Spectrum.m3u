@@ -65,3 +65,11 @@ http://restream-live.realiptv.to:8080/live/33741215/82527298/588480.ts
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",  Discovery
 http://212.5.144.156:8080/discovery/index.m3u8
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://i.imgur.com/pdNGDJ8.png",  Discovery Family Channel
+http://103.205.133.70/discoveryfamily/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ObPFgT8.png",  Discovery Life
+https://streamer1.nexgen.bz/DISCOVERYLIFE/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/1pQPxu3.png",  Discovery Turbo
+http://190.83.9.222:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",  Disney Channel East
+http://212.5.144.156:8080/disney/index.m3u8
