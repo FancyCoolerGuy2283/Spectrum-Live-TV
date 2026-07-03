@@ -33,3 +33,13 @@ http://206.212.244.63/639/index.m3u8
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/JmTIRLF.png",  Bravo
 http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/US0T6DC.png",  Cleo TV
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/573316.ts
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/S7DOpdY.png",  CMT HD
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1 group-title="News & Info" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png",  CNN HD
+https://cdn.telecloud.tv/CH4647/index.m3u8
+#EXTINF:-1 group-title="News & Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CNBC_World_2025.svg/960px-CNBC_World_2025.svg.png",  CNBC World
+http://206.212.244.63/42/index.m3u8
+#EXTINF:-1 group-title="News & Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png",  CNBC
+http://206.212.244.63/41/index.m3u8
