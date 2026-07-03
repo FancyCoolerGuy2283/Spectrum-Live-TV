@@ -101,9 +101,13 @@ http://206.212.244.63/68/index.m3u8
 https://cdn.telecloud.tv/CH3223/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/LHtxKI8.png",  FOX Sports 2
 https://cdn.telecloud.tv/CH3225/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ZScwrpi.png",  FX
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ZScwrpi.png",  FX East
 http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ZScwrpi.png",  FX West
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/3832
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/7dyLCv4.png",  FXM
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2497.ts
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png",  FXX
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png",  FXX East
 http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png",  FXX West
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/3833
