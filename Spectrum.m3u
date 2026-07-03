@@ -167,11 +167,11 @@ http://212.5.144.156:8080/id/index.m3u8
 http://103.205.133.70/lifetime/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/BWmqYTO.png",  Lifetime Movie Network
 http://84.17.50.102/lmn/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/960px-MGM%2B_logo.svg.png", MGM East
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/960px-MGM%2B_logo.svg.png", MGM East
 http://103.205.133.70/epix/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/960px-MGM%2B_Hits_2023.svg.png", MGM Hits
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/960px-MGM%2B_Hits_2023.svg.png", MGM Hits
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3724.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/960px-MGM%2B_Marquee_2023.svg.png", MGM Marquee
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/960px-MGM%2B_Marquee_2023.svg.png", MGM Marquee
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2583.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/960px-MGM%2B_Drive-In_2023.svg.png", MGM Drive In
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/960px-MGM%2B_Drive-In_2023.svg.png", MGM Drive In
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/4431.ts
