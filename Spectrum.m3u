@@ -5,7 +5,7 @@ http://23.239.31.26:8989/aande/index.m3u8
 http://23.237.104.106:8080/USA_ACCN/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",  AMC
 http://41.223.30.230/AMC/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png", AXS TV HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png", AXS TV
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 group-title="News & Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/AccuWeather.png/960px-AccuWeather.png", AccuWeather
 http://198.58.104.90:8989/accuweather/index.m3u8
@@ -15,3 +15,7 @@ http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/pTiiPz0.png", BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/L2LZpsj.png",  BET HD
+http://84.17.50.102/bet/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/oafsrlo.png",  BET Her
+http://41.223.30.230/BETHER/index.m3u8
