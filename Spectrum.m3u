@@ -219,3 +219,19 @@ http://206.212.244.63/2507/index.m3u8
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/31180.ts
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",  Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Or0LKsu.png",  Paramount+ With Showtime East
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Or0LKsu.png",  Paramount+ With Showtime West
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/3840
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png",  SHOWTIME 2 East
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3965.ts
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png",  SHOWTIME 2 West
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631912
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/bty4UCb.png",  SHOxBET East
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3968.ts
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/bty4UCb.png",  SHOxBET West
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631888
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/416F1kV.png",  Showtime Next East
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631889
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/416F1kV.png",  Showtime Next West
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631889
