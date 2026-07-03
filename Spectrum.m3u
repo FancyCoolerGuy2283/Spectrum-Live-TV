@@ -203,3 +203,11 @@ http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 http://198.58.104.90:8989/newsnation/index.m3u8
 #EXTINF:-1 group-title="News & Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png",  Newsmax TV
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/KT4tdQs.png",  Nick Jr.
+http://40.160.24.55/NICK_JR/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/960px-NickMusic.svg.png", NickMusic
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/89095.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/E84jnP8.png",  Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/960px-Nicktoons_Network_logo_2009.svg.png",  Nicktoons
+http://40.160.24.55/NICKTOONS/index.m3u8
