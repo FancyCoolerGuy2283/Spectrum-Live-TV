@@ -251,3 +251,21 @@ http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3966.ts
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/CLyGvZZ.png", Showtime Showcase West
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/631890.ts
+#EXTINF:-1 group-title="News & Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png",  Science
+http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/N7oSm4d.png",  STARZ
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/ghzzKoT.png",  STARZ Cinema
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/JpKvjZe.png",  STARZ Comedy
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/MvH3Cz2.png",  STARZ Edge
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3961.ts
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/5ieoKO1.png",  STARZ Encore
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3950.ts
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/5ieoKO1.png",  STARZ Encore West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3951.ts
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/wIf4X0i.png",  STARZ Encore Action
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3952.ts
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/B9Yfzdp.png",  STARZ Encore Family
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3957.ts
