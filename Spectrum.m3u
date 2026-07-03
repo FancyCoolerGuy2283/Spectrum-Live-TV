@@ -81,3 +81,13 @@ http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/TWFDkap.png", E Entertainment
 http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png", ESPN Deportes
+http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/40648
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",  ESPN
+https://cdn.telecloud.tv/CH3257/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/00tsvjE.png",  ESPN2
+http://84.17.50.102/espn2/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/HiBrysh.png",  ESPNU
+http://41.205.93.154/ESPNU/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",  ESPNews
+http://41.205.93.154/ESPNNEWS/index.m3u8
