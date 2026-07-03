@@ -175,3 +175,13 @@ http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3724.ts
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2583.ts
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/960px-MGM%2B_Drive-In_2023.svg.png", MGM Drive In
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/4431.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/ym3su2J.png", MLB Network
+https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/uMI1ySO.png", MLB Strike Zone
+http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",  MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/960px-MTV_Classic_US.svg.png",  MTV Classic
+http://206.212.244.63/117/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/3UByLqb.png", MTV Live
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
