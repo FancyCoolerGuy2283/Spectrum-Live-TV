@@ -291,3 +291,15 @@ http://45.228.235.116:8000/play/a05p/index.m3u8
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/21897.ts
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",  TeenNick
 http://206.212.244.63/670/index.m3u8
+#EXTINF:-1 group-title="News & Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png", Telemundo
+http://179.60.51.134:8888/TELEMUNDO/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/tsljAnY.png",  Tennis Channel
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+#EXTINF:-1 group-title="News & Info" tvg-logo="https://i.imgur.com/PIaNjfa.png",  The Weather Channel
+http://103.205.133.70/weather/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/RmHGeP1.png",  Travel Channel
+http://103.205.133.70/travel/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",  USA Network
+http://206.212.244.63/168/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png",  UniMas
+http://168.228.44.241:9997/play/a09e/index.m3u8
